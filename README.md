@@ -1,4 +1,4 @@
-# sao-bot-tos
+# SAO Bot's Term of Services
 Term of Services for SAO Bot on Discord
 
 Last updated October 06th, 2022
