@@ -3,7 +3,7 @@ Term of Services for SAO Bot on Discord
 
 Last updated October 06th, 2022
 
-##Agreement to Terms
+## Agreement to Terms
 These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Vuong Dinh Tuong An, as SAO Bot, concerning your access to and use of the SAO Bot as well as any other media form, website, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Bot”). You agree that by accessing the Bot, you have read, understood, and agree to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE BOT AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
 Supplemental terms and conditions or documents that may be posted on the website from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Use from time to time. We will alert you about any changes by updating the “Last updated” date of these Terms of Use, and you waive any right to receive specific notice of each such change. Please ensure that you check the applicable Terms every time you use our Bot so that you understand which Terms apply. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use by your continued use of the Bot after the date such revised Terms of Use are posted.
@@ -12,7 +12,7 @@ The information provided on the Bot is not intended for distribution to or use b
 
 The Bot is intended for users who are at least 13 years of age. All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the Bot. If you are a minor, you must have your parent or guardian read and agree to these Terms of Use prior to you using the Bot.
 
-##User Representations
+## User Representations
 By using the Bot, you represent and warrant that: 
 (1) You have the legal capacity and you agree to comply with these Terms of Use; 
 (2) You are not under the age of 13; 
@@ -23,10 +23,10 @@ By using the Bot, you represent and warrant that:
 
 If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Bot (or any portion thereof).
 
-##Fees and Payment
+## Fees and Payment
 We currently haven't delivered services that require you to pay. Ignore or report anyone who is trying to make you pay to have our bot's services.
 
-##Prohibited Activities
+## Prohibited Activities
 You may not access or use the Bot for any purpose other than that for which we make the Bot available. The Bot may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
 
 As a user of the Bot, you agree not to:
@@ -56,14 +56,14 @@ As a user of the Bot, you agree not to:
 (24) Use any type of unauthorized automation within Discord.
 (25) Use the bot for unauthorized advertisements.
 
-##Contribution License
+## Contribution License
 You and the Bot agree that we may access, store, process, and use any information and personal data that you provide following the terms of the Privacy Policy and your choices (including settings).
 
 By submitting suggestions or other feedback regarding the Bot, you agree that we can use and share such feedback for any purpose without compensation to you.
 
 We do not assert any ownership over your Contributions. You retain full ownership of all of your Contributions and any intellectual property rights or other proprietary rights associated with your Contributions. We are not liable for any statements or representations in your Contributions provided by you in any area on the Bot. You are solely responsible for your Contributions to the Bot and you expressly agree to exonerate us from any and all responsibility and to refrain from any legal action against us regarding your Contributions.
 
-##Bot Management
+## Bot Management
 We reserve the right, but not the obligation, to: 
 (1) Monitor the Bot for violations of these Terms of Use; 
 (2) Take appropriate legal action against anyone who, in our sole discretion, violates the law or these Terms of Use, including without limitation, reporting such user to law enforcement authorities; 
@@ -71,7 +71,7 @@ We reserve the right, but not the obligation, to:
 (4) In our sole discretion and without limitation, notice, or liability, to remove from the Bot or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems;
 (5) Otherwise manage the Bot in a manner designed to protect our rights and property and to facilitate the proper functioning of the Bot.
 
-Contact Us
+## Contact Us
 In order to resolve a complaint regarding the Bot or to receive further information regarding use of the Bot, please contact us at:
 
 Discord: https://discord.com/users/767342472400994355
