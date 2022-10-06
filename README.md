@@ -14,7 +14,7 @@ The Bot is intended for users who are at least 13 years of age. All users who ar
 
 ## User Representations
 By using the Bot, you represent and warrant that: 
-(1) You have the legal capacity and you agree to comply with these Terms of Use; 
+(1) You have the legal capacity and you agree to comply with these Terms of Use; \n
 (2) You are not under the age of 13; 
 (3) You are not a minor in the jurisdiction in which you reside, or if a minor, you have received parental permission to use the Bot; 
 (4) You will not access the Discord Bot through automated or non-human means, whether through a bot, script or otherwise; 
