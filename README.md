@@ -3,7 +3,8 @@ Documents for SAO Bot on Discord
 
 ## Contribution
 albert - Discord: albert.#1033
-Hamza
+
+Hamza - Discord: |||||
 
 ## Contact us
 
