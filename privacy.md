@@ -4,6 +4,18 @@ Last updated October 06th, 2022
 
 This project is responsible in terms of data protection laws, in particular the EU General Data Protection Regulation (GDPR)
 
+## Our Data Usage
+
+Our project save your:
+  
+  - Discord User ID
+
+Our project get your:
+
+  - Discord Profile Picture
+  - Discord Banner (if you have one)
+  - Message Content (Only for our command '/quiz')
+
 ## Your Rights as a Data Subject
 
 You can exercise the following rights at any time using the contact details provided by our data protection officer:
